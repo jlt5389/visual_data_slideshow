@@ -1,1 +1,1 @@
-# visual_data_slideshow
+# Data Display Slideshow
